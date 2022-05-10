@@ -1,4 +1,4 @@
-package margemDeLucro;
+package margemDeLucro_exe11;
 
 import java.util.Scanner;
 
