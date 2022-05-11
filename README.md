@@ -65,6 +65,11 @@ sudo ./xampp-installer.run
 - [x] 09 - Cálculo rendimento aplicação
 - [x] 10 - Cálculo valor prestações
 - [x] 11 - Cálculo de preço de venda com base em margem de lucro
+- [x] 12 - Cálculo de preço de venda de um veículo
+- [x] 13 - Verifique se o valor inserido é maior que 10
+- [x] 14 - Verifique qual o maior número de 2 valores
+- [x] 15 - Verifique se os números digitados estão entre 100-200
+- [x] 16 - Boletim escolar melhorado
 
 
 <!-- CONTACT -->
