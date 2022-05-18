@@ -70,6 +70,10 @@ sudo ./xampp-installer.run
 - [x] 14 - Verifique qual o maior número de 2 valores
 - [x] 15 - Verifique se os números digitados estão entre 100-200
 - [x] 16 - Boletim escolar melhorado
+- [x] 17 - Verifica se o número está em um intervalo
+- [x] 18 - Verifica se possui mais de 18 anos de x pessoas
+- [x] 19 - Algoritmo que coleta informações pessoais e classifica-as no final
+- [x] 20 - Sistema da concessionária Carango velho
 
 
 <!-- CONTACT -->
