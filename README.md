@@ -51,8 +51,10 @@ sudo ./xampp-installer.run
 ```
 
 -----
-## Lista de Exercício I - Lógica com Java
-
+<details>
+<summary>
+<strong>Lista de Exercício I - Lógica com Java</strong>
+</summary>
 
 - [x] 01 - Soma de dois números
 - [x] 02 - Operações matemáticas elementares
@@ -75,7 +77,18 @@ sudo ./xampp-installer.run
 - [x] 19 - Algoritmo que coleta informações pessoais e classifica-as no final
 - [x] 20 - Sistema da concessionária Carango velho
 
+</details>
 
+<details>
+<summary>
+<strong>Lista de Exercício II - Orientação a Objetos  com Java</strong>
+</summary>
+
+- [ ] 1 - Crie uma classe para representar uma Pessoa com os atributos privados de nome, data de nascimento e altura. Crie os métodos públicos necessários para getters e setters e também um método para imprimir todos dados de uma pessoa. Crie um método para calcular a idade da pessoa.
+
+</details>
+
+--------
 <!-- CONTACT -->
 ## Contato
 
