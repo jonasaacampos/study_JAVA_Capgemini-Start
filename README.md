@@ -84,7 +84,19 @@ sudo ./xampp-installer.run
 <strong>Lista de Exercício II - Orientação a Objetos  com Java</strong>
 </summary>
 
-- [ ] 1 - Crie uma classe para representar uma Pessoa com os atributos privados de nome, data de nascimento e altura. Crie os métodos públicos necessários para getters e setters e também um método para imprimir todos dados de uma pessoa. Crie um método para calcular a idade da pessoa.
+- [x] 1 - Crie uma classe para representar uma Pessoa com os atributos privados de nome, data de nascimento e altura. Crie os métodos públicos necessários para getters e setters e também um método para imprimir todos dados de uma pessoa. Crie um método para calcular a idade da pessoa.
+- [x] 2 - Crie uma classe para implementar uma ContaCorrente. A classe deve possuir os seguintes atributos:
+  número da conta, nome do correntista e saldo. Os métodos são os seguintes: alterarNome, depósito e
+  saque; No construtor, saldo é opcional, com valor default zero e os demais atributos são obrigatórios.
+- [ ] 3 - Crie uma classe para representar uma BombaCombustivel. A classe BombaCombustivel deve conter os
+  seguintes atributos: tipo de combustível, valor por litro e quantidade de combustível. Além desses
+  atributos a classes deve conter os seguintes métodos: a. abastecerPorValor; //método onde é informado o valor a ser abastecido e mostra a quantidade de litros que foi colocada no veículo b. abastecerPorLitro; // método onde é informado a quantidade em litros de combustível e mostra o valor a ser pago pelo cliente. c. alterarValor; //altera o valor do litro do combustível. d. alterarCombustivel; //altera o tipo do combustível. e. alterarQuantidadeCombustivel; //altera a quantidade de combustível restante na bomba.
+- [ ] 4 -
+- [ ] 5 - 
+- [x] 6 - Crie uma classe chamada Invoice que possa ser utilizado por uma loja de suprimentos de informática para
+  representar uma fatura de um item vendido na loja. Uma fatura deve incluir as seguintes informações
+  como atributos:  o número do item faturado,  a descrição do item,  a quantidade comprada do item e  o preço unitário do item. Sua classe deve ter um construtor que inicialize os quatro atributos. Se a quantidade não for positiva, ela deve ser configurada como 0. Se o preço por item não for positivo ele deve ser configurado como 0.0.  Forneça os métodos getters e setters para cada variável de instância. Além disso, forneça um método  chamado getInvoiceAmount que calcula o valor da fatura (isso é, multiplica a quantidade pelo preço por item) e depois retorna o valor como um double. Escreva um aplicativo de teste que demonstra as capacidades da classe Invoice.
+
 
 </details>
 

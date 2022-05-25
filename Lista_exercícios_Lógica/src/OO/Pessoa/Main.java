@@ -12,8 +12,8 @@ public class Main {
         System.out.print("Insira o nome da pessoa: ");
         p.setNome(entradaDeDadosTeclado.nextLine());
 
-        System.out.print("Insira a altura: ");
-        p.setAltura(Double.parseDouble(String.valueOf(entradaDeDadosTeclado.nextDouble())));
+//        System.out.print("Insira a altura: ");
+//        p.setAltura(entradaDeDadosTeclado.nextInt());
 
         System.out.print("Insira da data de nascimento [YYYY-MM-DD]: ");
         p.setDataNascimento(LocalDate.parse(entradaDeDadosTeclado.nextLine()));

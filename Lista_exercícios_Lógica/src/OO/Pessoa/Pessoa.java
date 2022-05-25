@@ -6,13 +6,12 @@ import java.time.Period;
 public class Pessoa {
     //atibutos
     private String nome;
-    private Double altura;
+    private int altura;
     private LocalDate dataNascimento;
-    String fichaCompleta;
 
     public String imprimirDados(){
-        return getNome() + "tem " + getAltura() + " e nasceu em " + getDataNascimento() + "\n" +
-                "Sua idade atual é de " + this.calcularIdade();
+        return getNome() + "tem " + getAltura() + " de altura e nasceu em " + getDataNascimento() + "\n" +
+                "Sua idade atual é de " + this.calcularIdade() + "anos.";
 
     }
     public int calcularIdade() {
@@ -29,11 +28,11 @@ public class Pessoa {
         this.nome = nome;
     }
 
-    public Double getAltura() {
-        return altura;
+    public int getAltura() {
+        return this.altura;
     }
 
-    public void setAltura(Double altura) {
+    public void setAltura(int altura) {
         this.altura = altura;
     }
 
