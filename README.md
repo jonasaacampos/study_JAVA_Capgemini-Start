@@ -88,10 +88,12 @@ sudo ./xampp-installer.run
 - [x] 2 - Crie uma classe para implementar uma ContaCorrente. A classe deve possuir os seguintes atributos:
   número da conta, nome do correntista e saldo. Os métodos são os seguintes: alterarNome, depósito e
   saque; No construtor, saldo é opcional, com valor default zero e os demais atributos são obrigatórios.
-- [ ] 3 - Crie uma classe para representar uma BombaCombustivel. A classe BombaCombustivel deve conter os
+- [x] 3 - Crie uma classe para representar uma BombaCombustivel. A classe BombaCombustivel deve conter os
   seguintes atributos: tipo de combustível, valor por litro e quantidade de combustível. Além desses
   atributos a classes deve conter os seguintes métodos: a. abastecerPorValor; //método onde é informado o valor a ser abastecido e mostra a quantidade de litros que foi colocada no veículo b. abastecerPorLitro; // método onde é informado a quantidade em litros de combustível e mostra o valor a ser pago pelo cliente. c. alterarValor; //altera o valor do litro do combustível. d. alterarCombustivel; //altera o tipo do combustível. e. alterarQuantidadeCombustivel; //altera a quantidade de combustível restante na bomba.
-- [ ] 4 -
+- [x] 4 - Crie uma classe denominada Elevador para armazenar as informações de um elevador dentro de um
+  prédio. A classe deve armazenar o andar atual (térreo = 0), total de andares no prédio (desconsiderando o
+  térreo), capacidade do elevador e quantas pessoas estão presentes nele.
 - [ ] 5 - 
 - [x] 6 - Crie uma classe chamada Invoice que possa ser utilizado por uma loja de suprimentos de informática para
   representar uma fatura de um item vendido na loja. Uma fatura deve incluir as seguintes informações
