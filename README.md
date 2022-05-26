@@ -49,8 +49,9 @@ wget https://www.apachefriends.org/xampp-files/7.4.29/xampp-linux-x64-7.4.29-0-i
 chmod +x xampp-installer.run
 sudo ./xampp-installer.run
 ```
-
 -----
+### Lógica de Prgramação III
+
 <details>
 <summary>
 <strong>Lista de Exercício I - Lógica com Java</strong>
@@ -101,6 +102,20 @@ sudo ./xampp-installer.run
 
 
 </details>
+
+<details>
+<summary><strong>Projetos em TI</strong></summary>
+
+_Melhor do que pensar e começar a codificar, é em um papel as ideias anotar._
+
+1. Definição geral do projeto
+2. Requisitos
+3. Regras de negócio
+4. Escopo tecnológico
+
+</details>
+
+O projeto desenvolvido nesta curso foi um gerenciador de tarefas, que está disponível e documentado [neste repositório](https://github.com/jonasaacampos/project_GerenciadorDeTarefas_Java).
 
 --------
 <!-- CONTACT -->
